@@ -1,0 +1,10 @@
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\bin\Debug\NewFeaturesC7.exe.config
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\bin\Debug\NewFeaturesC7.exe
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\bin\Debug\NewFeaturesC7.pdb
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\obj\Debug\NewFeaturesC7.csprojAssemblyReference.cache
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\obj\Debug\NewFeaturesC7.csproj.CoreCompileInputs.cache
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\obj\Debug\NewFeaturesC7.exe
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\obj\Debug\NewFeaturesC7.pdb
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\bin\Debug\System.ValueTuple.dll
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\bin\Debug\System.ValueTuple.xml
+C:\Users\mariia.kozhyna\source\repos\NewFeaturesC7\NewFeaturesC7\obj\Debug\NewFeaturesC7.csproj.CopyComplete
